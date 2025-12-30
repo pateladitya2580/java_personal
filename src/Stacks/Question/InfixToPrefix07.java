@@ -1,7 +1,5 @@
 package Stacks.Question;
-
 import java.util.Stack;
-
 public class InfixToPrefix07 {
     static void main(String[] args) {
         String infix = "9-(5+3)*4/6";//4
